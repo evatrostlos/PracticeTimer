@@ -1,2 +1,0 @@
-# PracticeTimer
-Created with CodeSandbox
